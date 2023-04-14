@@ -5,7 +5,7 @@ import static org.junit.Assert.assertThrows;
 
 import org.junit.Test;
 
-import Funcionario.Funcionario;
+import funcionario.Funcionario;
 
 public class FuncionarioTeste {
     private Funcionario funcionario;
